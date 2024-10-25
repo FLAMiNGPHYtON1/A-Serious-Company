@@ -1,0 +1,2 @@
+# A-Serious-Company
+ The File Management System is a web application built to simplify file uploads, storage, and organization. It features a Vue.js frontend for a user-friendly interface and a Node.js backend to manage server-side operations and SQL-based database integration.  This system allows users to upload and organize files efficiently, providing a centralized platform for easy access and management. With smooth frontend-backend interaction, it is suitable for both personal and collaborative use.
